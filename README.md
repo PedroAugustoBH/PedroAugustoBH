@@ -1,6 +1,15 @@
-## Hi there 👋
+## Ola 👋
+Boa vindas ao meu perfil
 
-<!--
+Meu nome e Pedro Augusto
+
+ºEstou estudando no alura
+
+ºEstou me desenvolvendo no JavaScript
+
+ºUtilizo esse espaço para minha organização e compartilhamneto dos meus projetos desenvolvidos
+
+
 **PedroAugustoBH/PedroAugustoBH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
